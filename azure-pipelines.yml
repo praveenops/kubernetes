@@ -21,7 +21,7 @@ parameters:
       - production
       - nonproduction
 
-pool: 'Hosted Agent'
+pool: 'Azure Pipelines'
 
 steps:
 - script: echo Hello, world!
