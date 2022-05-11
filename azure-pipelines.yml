@@ -21,7 +21,7 @@ parameters:
       - production
       - nonproduction
 
-pool: 'Default'
+pool: 'Azure Pipeline'
 
 steps:
 - script: echo Hello, world!
