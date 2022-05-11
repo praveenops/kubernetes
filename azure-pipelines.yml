@@ -21,7 +21,7 @@ parameters:
       - production
       - nonproduction
 
-pool: 'Default'
+pool: 'Hosted Agent'
 
 steps:
 - script: echo Hello, world!
